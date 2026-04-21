@@ -27,6 +27,6 @@ Aplikasi berita sederhana berbasis React Native dan Expo yang dikembangkan untuk
 
 ## Screenshot di Aplikasi Expo GO atau Browser
 ### Beranda
-![Beranda](<WhatsApp Image 2026-04-21 at 22.25.04.jpeg>) 
+![Beranda](assets/gambar-mobile/beranda.jpeg)
 ### Detail
-![Detail](<WhatsApp Image 2026-04-21 at 22.24.57.jpeg>)
+![Detail](assets/gambar-mobile/detail.jpeg)
