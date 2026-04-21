@@ -1,6 +1,6 @@
 # NewsApp UMUKA - Mobile Programming Assignment
 
-Aplikasi berita sederhana berbasis React Native dan Expo yang dikembangkan untuk memenuhi tugas mata kuliah Rekayasa Perangkat Lunak (RPL). Aplikasi ini mendemonstrasikan implementasi navigasi antar halaman dan tata letak yang adaptif (responsive).
+Aplikasi berita sederhana berbasis React Native dan Expo yang dikembangkan untuk memenuhi tugas mata kuliah Hybrid Programming. Aplikasi ini mendemonstrasikan implementasi navigasi antar halaman dan tata letak yang adaptif (responsive).
 
 ## Fitur Utama
 - Adaptive Layout: Tampilan daftar berita otomatis berubah (Row/Column) menyesuaikan lebar layar (Mobile & Desktop).
