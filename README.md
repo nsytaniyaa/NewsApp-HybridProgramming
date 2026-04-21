@@ -22,7 +22,7 @@ Aplikasi berita sederhana berbasis React Native dan Expo yang dikembangkan untuk
 
 1. Clone repository ini:
    ```bash
-   git clone [https://github.com/nsytaniyaa/NewsApp-HybridProgramming.git](https://github.com/nsytaniyaa/NewsApp-HybridProgramming.git)
+   git clone https://github.com/nsytaniyaa/NewsApp-HybridProgramming.git
    ```
 
 ## Screenshot di Aplikasi Expo GO atau Browser
