@@ -24,6 +24,14 @@ Aplikasi berita sederhana berbasis React Native dan Expo yang dikembangkan untuk
    ```bash
    git clone https://github.com/nsytaniyaa/NewsApp-HybridProgramming.git
    ```
+2. Install dependensi:
+   ```bash
+   npm install
+   ```
+3. Jalankan aplikasi:
+   ```bash
+   npx expo start --web
+   ```
 
 ## Screenshot di Aplikasi Expo GO atau Browser
 ### Beranda
